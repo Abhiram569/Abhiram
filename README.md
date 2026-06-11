@@ -18,9 +18,6 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 ### 📌 Featured Projects
-hishamtoursandtravels.com
-velosters.in
-valueeducation.com
 
 ### 📫 Reach me
 - LinkedIn: [Abhiram Krishna S T](https://www.linkedin.com/in/abhiram-krishna-s-t-2a7a15339)
